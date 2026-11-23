@@ -86,6 +86,3 @@ These two notebooks were supplied separately. Their source cells are retained, b
 
 All notebook Python sources and script exports are syntax-checked by `validate_project.py`; the synthetic CSV and demo PDF are validated as required assets. This does **not** guarantee live API execution, package compatibility on every computer, learned model quality, or future third-party service uptime. Run the notebooks with your own credentials to verify live Groq/WeatherAPI responses.
 
-## Upload to GitHub
-
-To keep the repository you already own, extract the ZIP, then use Git from inside the extracted folder. See `GITHUB_UPLOAD.md` for exact steps. The ZIP itself is not a Git repository and does not rename your remote GitHub repository automatically.
